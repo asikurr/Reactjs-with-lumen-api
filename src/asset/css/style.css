@@ -7,6 +7,9 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+nav.navBackgroundScroll.navbar.navbar-expand-lg.navbar-light.fixed-top {
+    border-bottom: 2px solid #007bff;
+}
 .topBannerOverlay{
     position: absolute;
     min-height: 500px;
